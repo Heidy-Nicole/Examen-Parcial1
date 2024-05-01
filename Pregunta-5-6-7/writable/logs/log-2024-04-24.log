@@ -1,0 +1,929 @@
+CRITICAL - 2024-04-24 01:41:18 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 01:41:26 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 01:48:10 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 02:08:39 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 02:08:46 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 02:09:29 --> Error: Cannot use object of type App\Models\persona_modelo as array
+[Method: POST, Route: sesion]
+in APPPATH\Controllers\loginController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\loginController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 02:10:29 --> Error: Cannot use object of type App\Models\persona_modelo as array
+[Method: POST, Route: sesion]
+in APPPATH\Controllers\loginController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\loginController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 02:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 02:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 02:12:40 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 02:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 02:14:00 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 02:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 02:14:02 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 02:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 02:14:04 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 02:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 02:14:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 15.
+ 1 APPPATH\Controllers\directorController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 02:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:02:44 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 17.
+ 1 APPPATH\Controllers\directorController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:06:40 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:07:30 --> ErrorException: Undefined array key "rol"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rol"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:09:56 --> ErrorException: Undefined variable $persona_modelo
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona_modelo', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:10:15 --> ErrorException: Undefined variable $persona_modelo
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona_modelo', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:10:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:10:43 --> ErrorException: Undefined variable $persona_modelo
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona_modelo', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:11:40 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:12:45 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:13:53 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 17.
+ 1 APPPATH\Controllers\directorController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:35:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:36:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:36:18 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:37:16 --> ErrorException: Undefined variable $persona
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:37:16 --> ErrorException: Undefined variable $persona
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:37:23 --> ErrorException: Undefined variable $persona
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:40:01 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:40:13 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:40:42 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:42:06 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:42:06 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:43:59 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:44:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:44:06 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 14.
+ 1 APPPATH\Controllers\directorController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:44:35 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 19.
+ 1 APPPATH\Controllers\directorController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 03:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:44:43 --> ErrorException: Undefined array key "correo"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 19.
+ 1 APPPATH\Controllers\directorController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "correo"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 03:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 03:44:55 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 19.
+ 1 APPPATH\Controllers\directorController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 05:16:24 --> ErrorException: Can't use method return value in write context
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-04-24 05:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 05:16:41 --> ErrorException: Can't use method return value in write context
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-24 05:17:37 --> ErrorException: Can't use method return value in write context
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 18.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-04-24 05:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 05:18:00 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 16.
+ 1 APPPATH\Controllers\directorController.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 05:20:58 --> ErrorException: Cannot redeclare App\Controllers\loginController::index()
+[Method: POST, Route: login]
+in APPPATH\Controllers\loginController.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-24 05:21:05 --> ErrorException: Cannot redeclare App\Controllers\loginController::index()
+[Method: POST, Route: login]
+in APPPATH\Controllers\loginController.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-24 17:09:26 --> ParseError: syntax error, unexpected token "else", expecting "function" or "const"
+[Method: POST, Route: login]
+in APPPATH\Controllers\loginController.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\loginController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\loginController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\loginController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\loginController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 17:09:34 --> ParseError: syntax error, unexpected token "else", expecting "function" or "const"
+[Method: POST, Route: login]
+in APPPATH\Controllers\loginController.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\loginController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\loginController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\loginController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\loginController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 17:11:04 --> ParseError: Unclosed '{' on line 9
+[Method: POST, Route: login]
+in APPPATH\Controllers\loginController.php on line 35.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\loginController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\loginController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\loginController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\loginController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 17:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 17:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 17:13:03 --> ErrorException: Undefined array key "email"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 19.
+ 1 APPPATH\Controllers\directorController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 17:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 17:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 17:15:07 --> ErrorException: Undefined variable $data
+[Method: GET, Route: director]
+in APPPATH\Views\directorView.php on line 18.
+ 1 APPPATH\Views\directorView.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\codeigniter\\app\\Views\\directorView.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter\\app\\Views\\directorView.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('directorView', [], true)
+ 5 APPPATH\Controllers\directorController.php(25): view('directorView', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 17:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 17:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 17:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 17:16:42 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 19.
+ 1 APPPATH\Controllers\directorController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 17:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 17:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 17:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 17:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-24 18:01:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '')
+      
+      '' at line 12 in C:\xampp\htdocs\codeigniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter\system\Database\MySQLi\Connection.php(308): mysqli->query('\r\n      SELECT ...', 0)
+#1 C:\xampp\htdocs\codeigniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('\r\n      SELECT ...')
+#2 C:\xampp\htdocs\codeigniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n      SELECT ...')
+#3 C:\xampp\htdocs\codeigniter\system\Model.php(915): CodeIgniter\Database\BaseConnection->query('\r\n      SELECT ...')
+#4 C:\xampp\htdocs\codeigniter\app\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(933): App\Controllers\directorController->index()
+#6 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+#7 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\codeigniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-04-24 18:01:21 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '')
+      
+      '' at line 12
+[Method: GET, Route: director]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Model.php(915): CodeIgniter\Database\BaseConnection->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'')
+ 2 APPPATH\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 18:01:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '')
+      
+      '' at line 12
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'')
+ 3 SYSTEMPATH\Model.php(915): CodeIgniter\Database\BaseConnection->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'')
+ 4 APPPATH\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 18:01:21 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '')
+      
+      '' at line 12
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'')
+ 4 SYSTEMPATH\Model.php(915): CodeIgniter\Database\BaseConnection->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id;\')
+      
+      \'')
+ 5 APPPATH\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 18:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 18:03:10 --> ErrorException: Undefined array key "Potosi"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 43.
+ 1 APPPATH\Controllers\directorController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Potosi"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 18:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 18:03:45 --> ErrorException: Array to string conversion
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 43.
+ 1 APPPATH\Controllers\directorController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 18:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-24 18:05:03 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')as La_Paz,
+      sum(CASE when departamento= 'Cochabamba' then saldo else 0...' at line 3 in C:\xampp\htdocs\codeigniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter\system\Database\MySQLi\Connection.php(308): mysqli->query('\r\n      SELECT ...', 0)
+#1 C:\xampp\htdocs\codeigniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('\r\n      SELECT ...')
+#2 C:\xampp\htdocs\codeigniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n      SELECT ...')
+#3 C:\xampp\htdocs\codeigniter\system\Model.php(915): CodeIgniter\Database\BaseConnection->query('\r\n      SELECT ...')
+#4 C:\xampp\htdocs\codeigniter\app\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(933): App\Controllers\directorController->index()
+#6 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+#7 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\codeigniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-04-24 18:05:03 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')as La_Paz,
+      sum(CASE when departamento= 'Cochabamba' then saldo else 0...' at line 3
+[Method: GET, Route: director]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Model.php(915): CodeIgniter\Database\BaseConnection->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id')
+ 2 APPPATH\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 18:05:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')as La_Paz,
+      sum(CASE when departamento= 'Cochabamba' then saldo else 0...' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id')
+ 3 SYSTEMPATH\Model.php(915): CodeIgniter\Database\BaseConnection->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id')
+ 4 APPPATH\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-24 18:05:03 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')as La_Paz,
+      sum(CASE when departamento= 'Cochabamba' then saldo else 0...' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id')
+ 4 SYSTEMPATH\Model.php(915): CodeIgniter\Database\BaseConnection->query('
+      SELECT 
+      sum(CASE when departamento= \'Potosi\' then saldo else 0 end)as Potosi,
+      sum(CASE when departamento= \'La Paz\' then saldo else 0end)as La_Paz,
+      sum(CASE when departamento= \'Cochabamba\' then saldo else 0 end)as Cochabamba,
+      sum(CASE when departamento= \'Oruro\' then saldo else 0 end)as Oruro,
+      sum(CASE when departamento= \'Beni\' then saldo else 0 end)as Beni,
+      sum(CASE when departamento= \'Tarija\' then saldo else 0 end)as Tarija,
+      sum(CASE when departamento= \'Chuquisaca\' then saldo else 0 end)as Chuquisaca,
+      sum(CASE when departamento= \'Santa Cruz\' then saldo else 0 end)as Santa_Cruz,
+      sum(CASE when departamento= \'Pando\' then saldo else 0 end)as Pando
+          
+      FROM personas JOIN cuentabancarias on personas.persona_id = cuentabancarias.persona_id')
+ 5 APPPATH\Controllers\directorController.php(26): CodeIgniter\Model->__call('query', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 18:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 18:07:28 --> Error: Undefined constant "App\Controllers\tabla"
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 18:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 18:09:24 --> ErrorException: Undefined variable $tabla
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 48.
+ 1 APPPATH\Controllers\directorController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabla', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 18:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 18:09:44 --> ErrorException: Undefined variable $tabla
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 48.
+ 1 APPPATH\Controllers\directorController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabla', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-24 18:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 18:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 18:13:45 --> ErrorException: Undefined variable $tabla
+[Method: GET, Route: director]
+in APPPATH\Controllers\directorController.php on line 54.
+ 1 APPPATH\Controllers\directorController.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tabla', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\directorController.php', 54)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\directorController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\directorController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
