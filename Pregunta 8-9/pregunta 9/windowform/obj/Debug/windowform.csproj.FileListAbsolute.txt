@@ -1,0 +1,10 @@
+C:\Users\HEYDI\source\repos\windowform\windowform\bin\Debug\windowform.exe.config
+C:\Users\HEYDI\source\repos\windowform\windowform\bin\Debug\windowform.exe
+C:\Users\HEYDI\source\repos\windowform\windowform\bin\Debug\windowform.pdb
+C:\Users\HEYDI\source\repos\windowform\windowform\obj\Debug\windowform.csproj.AssemblyReference.cache
+C:\Users\HEYDI\source\repos\windowform\windowform\obj\Debug\windowform.Form1.resources
+C:\Users\HEYDI\source\repos\windowform\windowform\obj\Debug\windowform.Properties.Resources.resources
+C:\Users\HEYDI\source\repos\windowform\windowform\obj\Debug\windowform.csproj.GenerateResource.cache
+C:\Users\HEYDI\source\repos\windowform\windowform\obj\Debug\windowform.csproj.CoreCompileInputs.cache
+C:\Users\HEYDI\source\repos\windowform\windowform\obj\Debug\windowform.exe
+C:\Users\HEYDI\source\repos\windowform\windowform\obj\Debug\windowform.pdb
