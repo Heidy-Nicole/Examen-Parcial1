@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufNNNBrS9yIaLyHFrKkE/jl0WnsDkbfhocLgF/SvfV+hdAtW6ICID+Lvgm6QFge8vcJ+ScWkhaibbhkDnv5OkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HEYDI\\source\\repos\\ejer4\\ejer4\\ejer4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HEYDI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
