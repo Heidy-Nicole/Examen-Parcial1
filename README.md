@@ -9,7 +9,9 @@
     <li>Java 18.0.2.1</li>
     <li>phpMyAdmin</li>
     <li>CODEIGNITER</li>
+    
   </ul>
+  <h3>Nota: La bdheidy2 se encuentra en la pregunta8-9 se puede usar para las preguntas que se necesiten y la bdheidy se encuentra afuera de las preguntas pero tambien dentro de las que se necesitan </h3>
   <h3>Empezaremos a ver cada una de las preguntas </h3>
   <ol>
   <li>En esta pregunta utilizamos Visual Studio, para hacer la muestra de los diferentes tipos de cuenta que tendremos </li>
