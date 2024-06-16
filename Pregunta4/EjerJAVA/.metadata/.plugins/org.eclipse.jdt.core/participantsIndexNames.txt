@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+F:\JavaWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3910081737.index
+\EjerJAVA\src\main\java
+C:\xampp\htdocs\Examen324\Ejercicio4\EjerJAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3910081737.index
+\EjerJAVA\src\main\java
+C:\xampp\htdocs\Examen-Parcial1\Pregunta4\EjerJAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3910081737.index
+\EjerJAVA\src\main\java
